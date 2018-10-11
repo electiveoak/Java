@@ -1,3 +1,4 @@
+package com.company;
 /**
  * author@Levi Somopawiro
  * het prgoramma vraagt gebruiker om cijfers in te voeren
@@ -37,7 +38,7 @@ public class Main {
             }
         }
         for (int i = 0; i<VAKNAMEN.length;i++)  {
-            System.out.println("vak/project: " + VAKNAMEN[i] + "Cijfer: " + vakCijfers[i] + " Behaalde punten: " + VAKPUNTEN[i]);
+            System.out.println("vak/project: " + VAKNAMEN[i] + " Cijfer: " + vakCijfers[i] + " Behaalde punten: " + VAKPUNTEN[i]);
         }
         System.out.println(puntenTotaal + "/28");
     }
