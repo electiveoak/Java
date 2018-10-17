@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f37c76d-0de9-4cec-8263-25913aa400d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../dobbelsteen practicum week4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oefenopdrachtArrays6b/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BsaMonitor2.0/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BsaMonitor2.0/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oefenopdracht 6c/oefenopdracht 6c.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oefenopdracht 6c/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/BsaMonitor2.0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/out/production/BsaMonitor2.0/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BsaMonitor2.0/src/com/company/Main.java" beforeDir="false" />
+    <list default="true" id="d6667b22-b898-4177-b054-361adb7df132" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Blok 1/dobbelsteen practicum week4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blok 1/oefenopdrachtArrays6b/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0/out/production/BsaMonitor2.0/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0/out/production/BsaMonitor2.0/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blok 1/oefenopdracht 6c/oefenopdracht 6c.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blok 1/oefenopdracht 6c/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/BsaMonitor2.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/out/production/BsaMonitor2.0/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BsaMonitor2.0/src/com/company/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,43 +28,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1545216463">
+    <session id="1750482751">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="728" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="728" />
         </counts>
       </usages-collector>
     </session>
-    <session id="637034859">
+    <session id="1218993866">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.54" value="1" />
-          <entry key="project.open.time.73" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="325" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="325" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -73,8 +73,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="441">
+              <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#1203#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,7 +85,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,8 +100,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -108,17 +111,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539352756200" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../oefenTentamenV2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539465459913" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Blok 1/BsaMonitor2.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,7 +138,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="BsaMonitor2.0" />
+      <module name="arrayOpdracht6c" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -154,28 +157,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f37c76d-0de9-4cec-8263-25913aa400d6" name="Default Changelist" comment="" />
-      <created>1539259978943</created>
+      <changelist id="d6667b22-b898-4177-b054-361adb7df132" name="Default Changelist" comment="" />
+      <created>1539454534550</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539259978943</updated>
-      <workItem from="1539259982716" duration="240000" />
-      <workItem from="1539260672814" duration="194000" />
-      <workItem from="1539330847458" duration="2825000" />
-      <workItem from="1539354379654" duration="484000" />
-      <workItem from="1539699176820" duration="499000" />
-      <workItem from="1539700375462" duration="1841000" />
+      <updated>1539454534550</updated>
+      <workItem from="1539454557944" duration="7978000" />
+      <workItem from="1539607080862" duration="999000" />
+      <workItem from="1539699700208" duration="665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6083000" />
+    <option name="totallyTimeSpent" value="9642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.53610504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -184,7 +183,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33260393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -193,7 +192,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -214,26 +213,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="441">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#1203#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
